@@ -13,6 +13,10 @@
   Our application goal is to support businesses in staying relevant, sustainable, and responsive to the changing demands of today's market.
 </p>
 
+#### Current Branch Available
+- [main](https://github.com/Biger5/Biger5/tree/main)
+- [machine-learning](https://github.com/Biger5/Biger5/tree/machine-learning)
+
 ### Machine Learning
 To know more details about machine learning, checkout [this branch](https://github.com/Biger5/Biger5/tree/machine-learning)
 ### Cloud Computing
