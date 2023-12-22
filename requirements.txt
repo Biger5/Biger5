@@ -1,0 +1,11 @@
+fastapi
+python-multipart
+gcsfs
+requests
+googlemaps
+numpy
+pandas
+protobuf
+pydantic
+tensorflow
+uvicorn[standard]
