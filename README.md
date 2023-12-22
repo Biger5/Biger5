@@ -18,7 +18,8 @@
 - [machine-learning](https://github.com/Biger5/Biger5/tree/machine-learning)
 
 ### Machine Learning
-To know more details about machine learning, checkout [this branch](https://github.com/Biger5/Biger5/tree/machine-learning)
+For now we have 2 versions of dataset and model. [Datasetv1](https://github.com/Biger5/Biger5/tree/machine-learning/datasets/dataset0.0.1), [Datasetv2](https://github.com/Biger5/Biger5/tree/machine-learning/datasets/dataset0.0.2)
+In further developments, the dataset will be expanded and perhaps we will develop new models. Get to know more details about machine learning, checkout [this branch](https://github.com/Biger5/Biger5/tree/machine-learning)
 ### Cloud Computing
 The Cloud Computing repository is separate from this repository to shorten development time, in the future it will be merged with the main Biger5 repository. Here is the link to the repository:
 - [Authentication Service](https://github.com/barjakoub/biger-authentication-service)
